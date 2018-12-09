@@ -2,7 +2,7 @@
   "name": "The Legend of Dragoon: Endiness, the Land of Dragoons!",
   "description": "A hub of info for The Legend of Dragoon, ripped from thelegendofdragoon.net",
   "repository": "https://github.com/BitBruce/thelegendofdragoon",
-  "logo": "https://cdn.rawgit.com/BitBruce/thelegendofdragoon/master/public/assets/lilspirit.jpg",
+  "logo": "https://cdn.jsdelivr.net/gh/BitBruce/thelegendofdragoon@master/public/assets/lilspirit.jpg",
   "keywords": ["node", "express", "heroku", "the legend of dragoon", "endiness"],
   "image": "heroku/nodejs"
 }
